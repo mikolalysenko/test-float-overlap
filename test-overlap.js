@@ -22,6 +22,9 @@ function testOverlap(a, b) {
     a = b
     b = t
   }
+  if(a === 0 || b === 0) {
+    return false
+  }
   var ea = doubleBits.exponent(a)
   var fa = tz(ea, a)
   var eb = doubleBits.exponent(b)
