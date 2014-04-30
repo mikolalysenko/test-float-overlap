@@ -1,6 +1,6 @@
 {
   "name": "test-float-overlap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test if two floating point numbers overlap",
   "main": "test-overlap.js",
   "directories": {
