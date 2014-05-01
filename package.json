@@ -7,8 +7,8 @@
     "test": "test"
   },
   "dependencies": {
-    "bit-twiddle": "^1.0.0",
-    "double-bits": "^1.0.0"
+    "bit-twiddle": "^1.0.1",
+    "double-bits": "^1.1.0"
   },
   "devDependencies": {
     "tape": "^2.12.3"
